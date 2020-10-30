@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMCProtocolReflector", "VMCProtocolReflector.csproj", "{BFC82B79-2E8C-4E35-AA19-E2AC402A52F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC82B79-2E8C-4E35-AA19-E2AC402A52F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC82B79-2E8C-4E35-AA19-E2AC402A52F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC82B79-2E8C-4E35-AA19-E2AC402A52F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC82B79-2E8C-4E35-AA19-E2AC402A52F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9314421-F997-4DA0-8B89-1B2FE1054B83}
+	EndGlobalSection
+EndGlobal
