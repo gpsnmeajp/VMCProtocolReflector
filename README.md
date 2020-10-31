@@ -11,7 +11,12 @@
 
 [VMC Protocol対応](https://protocol.vmc.info/)  
 
-## 設定
+## 設定(GUI)
+**VMCProtocolReflectorGUI.exe** を使用してください。  
+  
+<img src="https://github.com/gpsnmeajp/VMCProtocolReflector/blob/main/README-image/screen2.png?raw=true" width="50%">
+
+## 設定(詳細)
 setting.txtで設定します。  
 1行目: 受信ポート番号  
 2行目以降: 送信先アドレス:送信先ポート  
