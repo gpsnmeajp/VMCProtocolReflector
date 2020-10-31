@@ -39,7 +39,7 @@ namespace VMCProtocolReflector
         Receiver receiver;
         List<Sender> senders = new List<Sender>();
 
-        const string title = "VMCProtocolReflector v0.01";
+        const string title = "VMCProtocolReflector v0.02";
         const string filename = "setting.txt";
 
         public void Run() {
@@ -73,7 +73,7 @@ namespace VMCProtocolReflector
                     Console.WriteLine("Sender : "+s.GetHost() + " : "+ s.GetPort());
                 }
 
-                Console.WriteLine("Packets : " + count);
+                Console.WriteLine("Packets : " + (count/1024)+" kbytes");
                 Thread.Sleep(500);
             }
 
